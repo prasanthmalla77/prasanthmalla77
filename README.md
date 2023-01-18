@@ -54,7 +54,7 @@
 ###
 
 <br clear="both">
-<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="100%" >
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="100%" height="300px">
 
 
 ###
