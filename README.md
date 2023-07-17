@@ -60,7 +60,7 @@
 
 ### -->
 # 💫 About Me:
-🔭 I’m currently working at Drishya AI Labs<br>🌱 I’m currently learning Data Science<br>💬 Ask me about React, Python
+🏫I'm currently pursuing B. Tech of Information Technology Dept in JNTUGV<br>🔭 I’m currently working at Drishya AI Labs<br>🌱 I’m currently learning Data Science<br>💬 Ask me about React, Python
 
 
 ## 🌐 Socials:
@@ -85,4 +85,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=prasanthmalla77&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- made with https://gprm.itsvg.in/ -->
