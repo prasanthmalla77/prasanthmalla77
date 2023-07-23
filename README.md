@@ -60,7 +60,7 @@
 
 ### -->
 # 💫 About Me:
-🏫I'm currently pursuing B. Tech of Information Technology Dept in JNTUGV<br>🔭 I’m currently working at Drishya AI Labs<br>🌱 I’m currently learning Data Science<br>💬 Ask me about ............................
+🏫I'm currently pursuing B. Tech of Information Technology Dept in JNTUGV<br>🔭 I’m currently working at Drishya AI Labs<br>🌱 I’m currently learning Data Science<br>
 
 
 ## 🌐 Socials:
