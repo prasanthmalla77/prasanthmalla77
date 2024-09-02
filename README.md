@@ -60,7 +60,7 @@
 
 ### -->
 # 💫 About Me:
-🔭 I’m currently working at Drishya AI Labs<br>🌱 I’m currently learning Data Science<br>
+🔭 Jr Software Engineer @ Drishya AI Labs
 
 
 ## 🌐 Socials:
